@@ -1,0 +1,6 @@
+Versoes usadas:
+
+- Python: 3.12.3
+- Pandas: 2.3.3
+- Requests: 2.32.3
+- sqlalchemy: 2.0.45
